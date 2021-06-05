@@ -12,6 +12,5 @@ This project is done using :
 - XIB
 - Local storage to store favorite movie
 
-<!-- # First Look -->
-
-<!-- ![alt text](https://github.com/timtjahjadi/GetGo-app/blob/main/GetGo.png) -->
+# First Look
+![alt text](https://github.com/timtjahjadi/Movees/blob/main/Movees-first-look.png)
