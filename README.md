@@ -12,6 +12,6 @@ This project is done using :
 - XIB
 - Local storage to store favorite movie
 
-# First Look
+<!-- # First Look -->
 
-![alt text](https://github.com/timtjahjadi/movie_to_watch/blob/master/repository-open-graph-template.png?raw=true)
+<!-- ![alt text](https://github.com/timtjahjadi/movie_to_watch/blob/master/repository-open-graph-template.png?raw=true) -->
