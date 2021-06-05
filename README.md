@@ -14,4 +14,4 @@ This project is done using :
 
 <!-- # First Look -->
 
-<!-- ![alt text](https://github.com/timtjahjadi/movie_to_watch/blob/master/repository-open-graph-template.png?raw=true) -->
+<!-- ![alt text](https://github.com/timtjahjadi/GetGo-app/blob/main/GetGo.png) -->
