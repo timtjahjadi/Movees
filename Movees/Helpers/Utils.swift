@@ -12,7 +12,7 @@ enum Endpoint {
     case upcoming
     
     var urlString: String {
-        let apiKey = "?api_key=9794a02279457ff1dd616a586f2c8831"
+        let apiKey = "?api_key="
         
         switch self {
         case .popular:
